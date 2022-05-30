@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactulator/static/css/main.dd451e94.css",
+    "main.js": "/reactulator/static/js/main.220a3612.js",
+    "index.html": "/reactulator/index.html",
+    "main.dd451e94.css.map": "/reactulator/static/css/main.dd451e94.css.map",
+    "main.220a3612.js.map": "/reactulator/static/js/main.220a3612.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd451e94.css",
+    "static/js/main.220a3612.js"
+  ]
+}
